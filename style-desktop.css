@@ -46,11 +46,12 @@ a:hover {
   display: flex;
 
 }
+
  .flex-nav li {
   flex: 2;   
  }
 
- ul .social {
+ul .social {
    flex: 1;
  }
 
